@@ -1,0 +1,33 @@
+@font-face {
+  font-family: 'Inter';
+  src: url('./assets/fonts/Inter-VariableFont_slnt,wght.ttf');
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-weight: 400;
+  src: url('./assets/fonts/static/Inter-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-weight: 700;
+  src: url('./assets/fonts/static/Inter-Bold.ttf');
+}
+
+@font-face {
+  font-family: 'Inter';
+  font-weight: 800;
+  src: url('./assets/fonts/static/Inter-ExtraBold.ttf');
+}
+
+/* ExtraLight - 100
+Light - 200
+Thin - 300
+Regular - 400
+Medium - 500
+Semibold - 600
+Bold - 700
+ExtraBold - 800
+Black - 900 */
+
